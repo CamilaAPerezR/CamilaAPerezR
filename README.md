@@ -1,6 +1,7 @@
 # ¡Hola! Soy Camila Perez👋
 
-¡Bienvenido a mi perfil de GitHub! Soy Desarrolladora Full stack Junior en fromacion. Me apasiona construir soluciones digitales completas, cuidando cada etapa del proceso, desde la conceptualización hasta el despliegue y las pruebas.
+¡Bienvenido a mi perfil de GitHub! 
+Soy Desarrolladora Full stack Junior en fromacion. Me apasiona construir soluciones digitales completas, cuidando cada etapa del proceso, desde la conceptualización hasta el despliegue y las pruebas.
 
 ### 🚀 Sobre mí
 
@@ -28,4 +29,4 @@ Para el desarrollo de mis proyectos y mi formación, implemento un stack moderno
 - **Correo electrónico:** camilaandreaperezrodriguez99@gmail.com
 
 ---
-*¡Gracias por visitar mi perfil! Si quieres conocer más sobre el progreso de mi proyecto de E-commerce, puedes revisar mis repositorios.*
+*¡Gracias por visitar mi perfil! Si quieres conocer más sobre el progreso de Skechers E-commerce y otros proyectos , puedes revisar mis repositorios.*
