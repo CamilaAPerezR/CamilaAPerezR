@@ -9,6 +9,12 @@ Soy Desarrolladora Full stack Junior en fromacion. Me apasiona construir solucio
 - 🧠 **Enfoque metodológico:** Apliqué desde el levantamiento y análisis de requisitos hasta el diseño de prototipos/maquetas, seguido por la arquitectura del backend, la interfaz de usuario y la fase de pruebas controladas.
 - 🌱 **En constante crecimiento:** Perfeccionando mis habilidades en arquitecturas escalables, desarrollo móvil nativo y buenas prácticas de codificación.
 
+### 🧠 Intereses Futuros & Autoaprendizaje
+
+Siempre busco expandir mis horizontes tecnológicos. Actualmente investigo y me preparo para profundizar en:
+- 🛡️ **Ciberseguridad y Hacking Ético:** Entender las vulnerabilidades para construir software intrínsecamente seguro desde la primera línea de código.
+- 🤖 **Inteligencia Artificial:** Explorar cómo integrar modelos inteligentes para automatizar procesos y mejorar la experiencia del usuario.
+
 ### 🛠️ Tecnologías y Herramientas Aplicadas
 
 Para el desarrollo de mis proyectos y mi formación, implemento un stack moderno enfocado en robustez y experiencia de usuario:
