@@ -34,5 +34,4 @@ Para el desarrollo de mis proyectos y mi formación, implemento un stack moderno
 - **LinkedIn:** [https://www.linkedin.com/in/camila-andrea-perez-rodriguez-a5a75142a/]
 - **Correo electrónico:** camilaandreaperezrodriguez99@gmail.com
 
----
 *¡Gracias por visitar mi perfil! Si quieres conocer más sobre el progreso de Skechers E-commerce y otros proyectos , puedes revisar mis repositorios.*
