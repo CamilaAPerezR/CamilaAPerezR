@@ -13,7 +13,7 @@ Soy Desarrolladora Full stack Junior en fromacion. Me apasiona construir solucio
 
 Siempre busco expandir mis horizontes tecnológicos. Actualmente investigo y me preparo para profundizar en:
 - 🛡️ **Ciberseguridad y Hacking Ético:** Entender las vulnerabilidades para construir software intrínsecamente seguro desde la primera línea de código.
-- 🤖 **Inteligencia Artificial:** Explorar cómo integrar modelos inteligentes para automatizar procesos y mejorar la experiencia del usuario
+- 🤖 **Inteligencia Artificial:** Explorar cómo integrar modelos inteligentes para automatizar procesos y mejorar la experiencia del usuario.
 
 ### 🛠️ Tecnologías y Herramientas Aplicadas
 
