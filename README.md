@@ -1,7 +1,7 @@
 # ¡Hola! Soy Camila Perez👋
 
 ¡Bienvenido a mi perfil de GitHub! 
-Soy Desarrolladora Full stack Junior en fromacion. Me apasiona construir soluciones digitales completas, cuidando cada etapa del proceso, desde la conceptualización hasta el despliegue y las pruebas
+Soy Desarrolladora Full stack Junior en fromacion. Me apasiona construir soluciones digitales completas, cuidando cada etapa del proceso, desde la conceptualización hasta el despliegue y las pruebas.
 
 ### 🚀 Sobre mí
 
