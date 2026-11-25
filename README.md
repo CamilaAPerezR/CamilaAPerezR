@@ -7,7 +7,7 @@ Soy Desarrolladora Full stack Junior en fromacion. Me apasiona construir solucio
 
 - 🔭 **Proyecto destacado:** Actualmente me encuentro desarrollando un **E-commerce inspirado en la marca Skechers**, un proyecto integral donde he liderado todo el ciclo de vida del software (SDLC).
 - 🧠 **Enfoque metodológico:** Apliqué desde el levantamiento y análisis de requisitos hasta el diseño de prototipos/maquetas, seguido por la arquitectura del backend, la interfaz de usuario y la fase de pruebas controladas.
-- 🌱 **En constante crecimiento:** Perfeccionando mis habilidades en arquitecturas escalables, desarrollo móvil nativo y buenas prácticas de codificación.
+- 🌱 **En constante crecimiento:** Perfeccionando mis habilidades en arquitecturas escalables, desarrollo móvil nativo y buenas prácticas de codificación
 
 ### 🧠 Intereses & Autoaprendizaje
 
